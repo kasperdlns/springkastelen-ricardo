@@ -262,6 +262,7 @@ h1, h2, h3 {
 .form { display: flex; flex-direction: column; gap: 18px; }
 .form__field { display: flex; flex-direction: column; gap: 8px; }
 .form__field label { font-weight: 700; font-size: 1rem; }
+.optioneel { font-weight: 400; color: var(--grijs); }
 
 .form input,
 .form select,
